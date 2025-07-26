@@ -5,6 +5,8 @@
 ### claco
 CLI tool for boosting Claude Code productivity - manage hooks, slash commands, and inspect session history.
 
+From https://github.com/kaichen/claco
+
 ```bash
 brew install kaichen/tap/claco
 # or tap and install
